@@ -1,2 +1,3 @@
-# rusty-snake
-Snake, but in Rust + bevy
+# Rusty Snake
+
+Snake, but in Rust + bevy.
